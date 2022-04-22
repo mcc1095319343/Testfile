@@ -1,0 +1,3 @@
+﻿  hi.cpp
+d:\machao\vs_opencv\vs_project\project_new1\project_new1\hi.cpp(273): warning C4715: “ChooseNum”: 不是所有的控件路径都返回值
+  Project_new1.vcxproj -> D:\machao\vs_opencv\vs_project\Project_new1\Debug\Project_new1.exe
