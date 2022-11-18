@@ -1,4 +1,4 @@
-#include "a.h"
+#include "a.hbb" //modhahaha
 
 
 void A::displayA()
