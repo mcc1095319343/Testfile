@@ -1,4 +1,5 @@
-#include "a.hbb" //modhahaha
+#include "a.h" //conflict
+
 
 
 void A::displayA()
