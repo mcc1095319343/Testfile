@@ -1,5 +1,5 @@
 #include "a.h" //conflict
-
+//modified by MccPC-master-row2
 
 
 void A::displayA()
